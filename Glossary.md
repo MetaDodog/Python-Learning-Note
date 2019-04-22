@@ -4,4 +4,4 @@ The word **specilized** points out the meaning of the glossary-or, in another wo
 It's especially useful for the new users, who can refer to the list when they encounter some words or phrases with special meanings. 
 This passage aims to discuss the characteristics of a good glossary and it will use the Python Documenation as an example. 
 Comments are always welcome. 
-
+hi
